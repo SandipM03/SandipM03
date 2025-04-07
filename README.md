@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on an AI interview web application<br>🌱 I’m currently learning MERN<br>💬 Ask me about Web Development<br>📫 Reach me sandipmandal816708@gmail.com<br>
+🔭 I’m working on an AI interview web application<br>🌱 I’m currently learning MERN<br>💬 Ask me about Web Development<br>📫 Reach me sandipmandal.dev@gmail.com<br>
 
 
 ## 🌐 Socials:
