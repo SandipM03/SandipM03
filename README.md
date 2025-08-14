@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on an AI interview web application<br>🌱 I’m currently learning **Full Stack Development**<br>📫 Reach out to me here **[📧](sandipmandal.dev@gmail.com)**<br>
+🔭 I’m working on web development<br>🌱 I’m currently learning **Full Stack Development**<br>📫 Reach out to me here **[📧](sandipmandal.dev@gmail.com)**<br>
 
 
 ## 🌐 Socials:
